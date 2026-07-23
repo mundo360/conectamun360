@@ -1,0 +1,173 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_AE63FA0F_8ED8_6453_41C8_9681633335EA.source = https://conectamun.com.br
+LinkBehaviour_991B463E_8EC8_AC9F_41AE_E6A63847AF47.source = https://conectamun.com.br/
+WebFrame_9536AFEF_8ECB_BBA9_41D9_15C66DA2DA44.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.126148067831!2d-47.8807099242908!3d-15.797301023027801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a309b1e384357%3A0xa8f81b7dc5456548!2sMuseu%20Nacional%20da%20Rep%C3%BAblica!5e0!3m2!1spt-BR!2sbr!4v1784808648587!5m2!1spt-BR!2sbr
+WebFrame_AF2C53F1_8EB8_6BC4_41CF_244A1D101503.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.126148067831!2d-47.8807099242908!3d-15.797301023027801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a309b1e384357%3A0xa8f81b7dc5456548!2sMuseu%20Nacional%20da%20Rep%C3%BAblica!5e0!3m2!1spt-BR!2sbr!4v1784808648587!5m2!1spt-BR!2sbr
+LinkBehaviour_92B918C3_8EFB_A5DE_41B8_DC99DAE4D2A9.source = https://www.instagram.com/conectamun.arte
+LinkBehaviour_9042AD60_8ED8_5CCF_41C2_99D483F7241C.source = https://www.instagram.com/conectamun.arte/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_90BE2B46_8A4C_3AF4_41DD_FBF06F1D1239.text = 1º andar
+HotspotPanoramaOverlayTextImage_92F4ABB7_8A4C_7994_41E0_FC61D0B4927E.text = 1º andar
+HotspotPanoramaOverlayTextImage_9FB0A021_8ECB_A480_4198_4BF769E787BC.text = Iniciar
+HotspotPanoramaOverlayTextImage_90269776_8A4D_EA94_41CC_32ECA16CBC8F.text = Mezanino
+HotspotPanoramaOverlayTextImage_93EEA54B_8A7C_6EFC_41A8_3B7DA6F97C0D.text = Mezanino
+
+## Media
+
+### Image
+imlevel_A89E9807_8F48_A445_41E0_B19BBF7465C6.url = media/panorama_839B7831_8EB8_648B_41E0_5EF77E3EA858_HS_e95j1vdd_pt.webp
+imlevel_A144FEE4_8AC4_3A7A_41D3_FA3432875A57.url = media/panorama_975D7CDE_8549_221C_41DF_307AD14C800B_HS_usvb4mmt_pt.webp
+imlevel_A16C9F16_8AC4_3BC6_41C9_09755A276DA9.url = media/panorama_99D5791C_89C4_6694_41D1_E11DE0399EED_HS_noy6m4c7_pt.webp
+imlevel_A1626F66_8AC4_3A46_41B4_A7DE10A053B0.url = media/panorama_9EFC4DA8_8A4C_D9BD_41DE_468D7D106488_HS_016w39vj_pt.webp
+imlevel_A16D5F3E_8AC4_3BC9_41E0_C4A3757DC355.url = media/panorama_9EFC8F72_8A4D_DAAD_41E0_77C4AF16B846_HS_ff8tnrkm_pt.webp
+
+### Title
+panorama_98C6F159_89FC_E69C_41C1_801630103032.label = 100_096
+panorama_9D4181D8_89CC_E99C_41C3_09F4A24382E9.label = 101_097
+panorama_9B0C1B4D_89CC_FAF4_41CB_80817000C484.label = 102_098
+panorama_9B0C7407_89CC_EE73_41DF_373F712EE74B.label = 103_099
+panorama_9B0F9ED4_89CC_DB94_41D4_1035158FD938.label = 104_100
+panorama_9B0C51E9_89CC_29BC_41C1_55E3328496FE.label = 105_101
+panorama_9B0F6E8B_89CC_5A7C_4188_AA32320B35ED.label = 106_102
+panorama_9B0C9787_89CC_6A74_41E0_B6185F40D563.label = 107_103
+panorama_9B0C91E1_89CC_69AF_41C0_81692D736D71.label = 108_105
+panorama_ADB5307C_85D9_2038_41D3_4A9A94421260.label = 10_053
+panorama_A0FB4C65_85D9_2048_41BF_2EE701499DA5.label = 11_044
+panorama_A0F8E602_85D9_63C8_41DD_4C0FDCEC19B1.label = 12_045
+panorama_A0F8CFFD_85D9_6039_41BE_39098316BB27.label = 13_046
+panorama_A0F88C09_85D9_67D9_41D9_D92B737A05B4.label = 14_047
+panorama_A0F8A21C_85D9_23FE_41C3_6E328001E6A1.label = 15-2_107
+panorama_A0F8E5FA_85D9_203B_41D0_890249DAEFD7.label = 15_054
+panorama_A0F8BBFD_85D9_203E_41AA_998BA9893168.label = 16_055
+panorama_A0F9359F_85D8_E0FA_41B3_AA281C0A2663.label = 17_056
+panorama_A0F8415E_85D8_E07A_41DB_496B70BE86A5.label = 18_057
+panorama_96E13C0A_8549_21E4_41CE_CD414469164F.label = 1_106
+panorama_84969449_89BC_EEFC_41B4_6BFBDE8C03C0.label = 20_058
+panorama_8251B191_89BC_266C_41DB_1B689F008DDF.label = 21_059
+panorama_82574BBC_89BC_3994_41D8_B2F74B624491.label = 22_060
+panorama_82577781_89BC_2A6C_41BD_B3E7AA86ADF3.label = 23_061
+panorama_82576263_89BC_6AB3_4189_0280D9701EEE.label = 24_062
+panorama_8256FF7A_89BC_7A9C_41D6_14AC780CB81A.label = 25_063
+panorama_8256BA69_89BC_5ABC_41BC_00882E4A1868.label = 26_064
+panorama_825734B3_89BC_2FAC_41B8_48494D317C96.label = 27_066
+panorama_82567144_89BC_26F4_41D6_BECD0B4D2D82.label = 28_067
+panorama_82567F93_89BF_DA6C_41B5_910EACBBFEEB.label = 29_068
+panorama_97626636_8549_EE2C_41DC_239376BBA7B4.label = 2_048
+panorama_8256A9FD_89BF_F994_41C9_E69F0E3CE83A.label = 30_069
+panorama_8256F2DC_89BF_EB94_41E0_A385FEC2D02D.label = 31_070
+panorama_975D21DC_8549_E21D_41D3_22C40C5741DD.label = 3_049
+panorama_9923BB98_89C4_599C_41C4_E2086B2C7364.label = 40_071
+panorama_99D5791C_89C4_6694_41D1_E11DE0399EED.label = 41_072
+panorama_975D4082_8549_22E4_41C2_EB69E9B371D6.label = 4_050
+panorama_9A080669_89C4_EABF_4190_6FB2CB07346F.label = 50_073
+panorama_98C1C2C3_89C4_2BEC_41D2_81FACFB6F481.label = 51_074
+panorama_98C22F53_89C4_3AEC_41D9_400971B08D88.label = 52_075
+panorama_98C2FC08_89C4_5E7D_41DC_492A50B2B404.label = 53_076
+panorama_98C1CB22_89C4_7AAC_41CC_0B01C1B7A2B1.label = 54_077
+panorama_98C1F5F0_89C4_69AC_41DA_2E63BD9297B6.label = 55_078
+panorama_98C27E85_89C4_5A77_41C4_0721195B3FDD.label = 56_079
+panorama_98C2573D_89C4_2A94_41D1_B0BB4E4C973D.label = 57_080
+panorama_98C21038_89C4_269D_41D2_ABAEE46B829A.label = 58_081
+panorama_98C278B3_89C4_27AC_41DC_3E959301F7BD.label = 59_082
+panorama_9762A96F_8549_223C_4183_5552B80B65CD.label = 5_051
+panorama_98C2014A_89FB_E6FC_41D9_E5E379AB60A5.label = 60_083
+panorama_98C259CE_89FB_F9F5_41D4_39B70B36DD71.label = 61_084
+panorama_98C1F259_89FB_EA9C_41DF_F746E355215B.label = 62_085
+panorama_98C22B10_89FB_DA6C_41D2_6BE3005F6862.label = 63_086
+panorama_98C63421_89FC_2EAC_41CB_22EBC8E80FF2.label = 64_087
+panorama_98C5FCB8_89FC_3F9C_41DE_6F05FABF8ACF.label = 65_088
+panorama_98C63561_89FC_2EAC_41D6_2C7D5E1E829C.label = 66_089
+panorama_98C5EE37_89FC_5A94_41CE_9C19CF5AAC78.label = 67_090
+panorama_98C66766_89FC_6AB4_41D1_FDEA442D47A3.label = 68_091
+panorama_98C60216_89FC_6A95_41C2_975239097ADE.label = 69_092
+panorama_9762B2CD_8549_267F_41C5_51DD2249AA54.label = 6_052
+panorama_975D7CDE_8549_221C_41DF_307AD14C800B.label = 7-34-38
+panorama_98C6BEF6_89FC_5B94_41CA_422686E00844.label = 70_093
+panorama_98C6BBCC_89FC_39F4_41C9_57B4E43A58D3.label = 71_094
+panorama_98C6F659_89FC_2A9F_41BB_8C1502EDFDFC.label = 72_095
+panorama_9C51F93B_8A4C_269C_41C1_F4E26AE58EDD.label = 80_013
+panorama_9EFC0642_8A4C_6AEC_41BA_7B43BDB7CDDC.label = 81_014
+panorama_9EFF4172_8A4C_66AC_41BA_9AE1CE18091E.label = 82_015
+panorama_9EFCFCE9_8A4C_5FBC_41D3_9D986D1C5C32.label = 83_016
+panorama_9EFCD7FA_8A4C_299C_41D3_8EA1A7080EA2.label = 84_017
+panorama_9EFCEBB4_8A4D_D995_41D5_C94C24F49504.label = 85-1-021
+panorama_9EFC82D9_8A4C_2B9C_419E_99E504442475.label = 85_018
+panorama_9EFC9503_8A4D_EE6C_41C6_CFCACF5CB88B.label = 86_019
+panorama_9EFCBDDE_8A4D_F994_41C7_6880D380D59D.label = 87_020
+panorama_9EFC5688_8A4D_EA7C_4177_9AF83902D780.label = 88_022
+panorama_9EFC8F72_8A4D_DAAD_41E0_77C4AF16B846.label = 89_023
+panorama_9EFDA84D_8A4C_26F7_41E0_E2A121E6BFEC.label = 90_024
+panorama_9EFD90C2_8A4C_27ED_41C9_84FDEB7E47A2.label = 91_025
+panorama_9EFDC99D_8A4C_5997_41CE_A1609AD1A629.label = 92_026
+panorama_9EFD9279_8A4C_6A9C_41B5_FFDC4C1D4E23.label = 93_027
+panorama_9EFDCB54_8A4C_7A95_41D9_34A698DE9CA7.label = 94_028
+panorama_9EFDF42D_8A4C_6EB7_41C1_793794F26FA6.label = 95_029
+panorama_9EFC3D0B_8A4C_5E7C_41DD_B6033F5610B2.label = 96_030
+panorama_9EFDA5C2_8A4C_29EC_41BE_6B0AE023970F.label = 97_031
+panorama_9EFC62D9_8A4C_2B9C_41E0_C9ABC679D51D.label = 98_032
+panorama_9EFC4DA8_8A4C_D9BD_41DE_468D7D106488.label = 99_033
+panorama_839B7831_8EB8_648B_41E0_5EF77E3EA858.label = drone-museu1
+
+## Skin
+
+### Button
+Button_991B963E_8EC8_AC9F_41DD_A77E4EF9D2E8.label = (X) FECHAR JANELA
+Button_92B9B8C4_8EFB_A5DA_41DD_3C8178867095.label = (X) FECHAR JANELA
+Button_913AF056_8EC8_E4F7_41D9_B3F46FB66540.label = (x) Fechar janela
+Button_92B858C3_8EFB_A5DE_41E1_3BC2E0A7D2C2.label = ACESSAR INSTAGRAM
+Button_9918363D_8EC8_AC9D_4167_8FBF26A7251F.label = ACESSAR SITE
+Button_AE79B268_8AC5_EAE7_41D3_553924F6E02F.label = Construção e Descontrução >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Construção e Descontrução >
+Button_986817C9_8ED8_6BF1_41DB_3E6271E3D5A8.label = Fechar Janela
+Button_AC2BF415_8F48_AC42_41C7_CA99049C00C4.label = Instruções de Navegação
+Button_AC50E645_8F5B_ECC7_41D9_C0DFE505A049.label = Instruções de Navegação !!
+Button_AE790268_8AC5_EAE7_41E1_3D5EB15B71C3.label = Mezanino >
+Button_AB315BDB_8A45_F99C_41D7_E2A8947CEB14.label = Mezanino >
+Button_AE796268_8AC5_EAE7_41B4_2B337EAEF9B6.label = Modos de Presença >
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = Modos de Presença >
+Button_AE794268_8AC5_EAE7_41DC_C3B2A883A981.label = Paisagens >
+Button_AAB3699B_8A44_799C_41D8_39BEB38FD06E.label = Paisagens >
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_pt.png
+Image_9042BD60_8ED8_5CCF_4173_983F7E3F9D7C.url = skin/Image_9042BD60_8ED8_5CCF_4173_983F7E3F9D7C_pt.png
+Image_913A9056_8EC8_E4F7_41E1_DB24A0C169B4.url = skin/Image_913A9056_8EC8_E4F7_41E1_DB24A0C169B4_pt.png
+Image_92BAD8C1_8EFB_A5DA_41D4_895F7472F415.url = skin/Image_92BAD8C1_8EFB_A5DA_41D4_895F7472F415_pt.png
+Image_986867C9_8ED8_6BF1_4185_92E98401930F.url = skin/Image_986867C9_8ED8_6BF1_4185_92E98401930F_pt.png
+Image_9918463D_8EC8_AC9D_41DB_DFBE2BC06ECA.url = skin/Image_9918463D_8EC8_AC9D_41DB_DFBE2BC06ECA_pt.png
+Image_ADEF2CBD_8F58_DC44_41D0_CA1CA0978FAD.url = skin/Image_ADEF2CBD_8F58_DC44_41D0_CA1CA0978FAD_pt.png
+Image_ADEF7CBE_8F58_DC45_41E0_1B72E57DD386.url = skin/Image_ADEF7CBE_8F58_DC45_41E0_1B72E57DD386_pt.png
+Image_AE644A0D_8ED8_6457_41B0_4A3E73132E76.url = skin/Image_AE644A0D_8ED8_6457_41B0_4A3E73132E76_pt.png
+Image_AEFB019B_8F4F_A447_41C9_851D059C6748.url = skin/Image_AEFB019B_8F4F_A447_41C9_851D059C6748_pt.png
+
+### Label
+Label_90429D60_8ED8_5CCF_41D0_530FD3CE0E21.text = @conectamun.arte
+Label_9042AD60_8ED8_5CCF_41D5_307AA376F7AD.text = Deseja acessar o Instagram ?
+Label_AE640A0D_8ED8_6457_41DB_7A157A8294BC.text = Deseja acessar site oficial ?
+Label_90416D60_8ED8_5CCF_4189_095FD54D01C6.text = NÃO
+Label_AE650A0F_8ED8_6453_41DE_401C7B450637.text = NÃO
+Label_90428D60_8ED8_5CCF_41DC_056121D1BEA7.text = SIM
+Label_AE653A0E_8ED8_6455_41CC_5175B51AE06C.text = SIM
+Label_AE64BA0E_8ED8_6455_41A6_9B2EFCFA438F.text = conectamun.com.br
+
+### Multiline Text
+HTMLText_92BB28C2_8EFB_A5DE_41DE_431AE56F4936.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.93601462522852vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.94vh;font-family:'Bahnschrift';"><B>ACESSE NOSSO INSTAGRAM OFICIAL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.2906764168190135vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:3.29vh;font-family:'Bahnschrift';">@conectamun.arte</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.742230347349178vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.32vh;font-family:'Bahnschrift';">Acesse nossa rede social instagram</SPAN><SPAN STYLE="font-size:2.74vh;font-family:'Bahnschrift';">. </SPAN></SPAN></DIV></div>
+HTMLText_9918063D_8EC8_AC9D_41D8_FFB9C7A49AE9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.93601462522852vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.94vh;font-family:'Bahnschrift';"><B>ACESSE NOSSO SITE OFICIAL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.2906764168190135vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:3.29vh;font-family:'Bahnschrift';">conectamun.com.br</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.742230347349178vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.32vh;font-family:'Bahnschrift';">Acesse nosso site principal para mais informações sobre o projeto</SPAN><SPAN STYLE="font-size:2.74vh;font-family:'Bahnschrift';">. </SPAN></SPAN></DIV></div>
+HTMLText_AF2C73F1_8EB8_6BC4_41D0_1DFAC425FC8F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000098vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_913AE056_8EC8_E4F7_41DB_6B61D5C3A612.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003399;font-size:21px;"><B>Vanguarda - Arte</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Email: vanguarda.arte@gmail.com</SPAN><SPAN STYLE="color:#333333;font-size:13px;font-family:'Bahnschrift';"><B>  </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">instagram:@conectamun.arte</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Youtube:@vanguardacine</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Site: conectamun.com.br</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">Produção Tour Virtual 360º :</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">Higor Francis  - DF360</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">@df360.com.br</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_986827C9_8ED8_6BF1_41DA_8DCD80090318.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003399;font-size:33px;"><B>Vanguarda - Arte</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Email: vanguarda.arte@gmail.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Site: conectamun.com.br  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Instagram:@conectamun.arte</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;font-family:'Bahnschrift';">Youtube:@vanguardacine</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">Produção Tour Virtual 360º :</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">Higor Francis  - DF360</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Bahnschrift';">@df360.com.br</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B> </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Conectamun-360
